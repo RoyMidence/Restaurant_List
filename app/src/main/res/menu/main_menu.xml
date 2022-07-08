@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItemAddButton"
+        android:title="@string/add_restaurant" />
+    <item
+        android:id="@+id/menuItemFilter"
+        android:title="@string/filter_by_rating" />
+    <item
+        android:id="@+id/menuItemClearFilter"
+        android:title="@string/clear_filter" />
+    <item
+        android:id="@+id/menuItemInfo"
+        android:title="@string/app_info" />
+</menu>

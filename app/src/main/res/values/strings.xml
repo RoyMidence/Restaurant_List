@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">hwk3</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="enter_email">Enter email...</string>
+    <string name="add_restaurant">Add Restaurant</string>
+    <string name="filter_by_rating">Filter By Rating</string>
+    <string name="clear_filter">Clear Filter</string>
+    <string name="app_info">App Info</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="rating">Rating</string>
+    <string name="add_a_restaurant">Add a Restaurant</string>
+    <string name="enter_name">Enter name...</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="choose_minimum_filter_rating">Choose Minimum Filter Rating</string>
+    <string name="set_filter">Set Filter</string>
+    <string name="roy_s_restaurant_ratings">Roy\'s Restaurant ratings</string>
+    <string name="roy_midence">Roy Midence</string>
+    <string name="version_1_0">Version 1.0</string>
+</resources>
